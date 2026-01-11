@@ -10,7 +10,6 @@
 6. [Configuration](#configuration)
 7. [Error Handling](#error-handling)
 8. [Performance Optimization](#performance-optimization)
-9. [Troubleshooting](#troubleshooting)
 
 ## Overview
 
